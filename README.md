@@ -1,6 +1,6 @@
 # 哔哩哔哩粉丝数监测程序
 
-其实就是一个十分简单的python程序，一百来行代码，Releases里有已经编译和打包过的文件
+其实就是一个十分简单的python程序，一百来行代码，Releases里有已经编译和打包过的文件（网页版地址[https://shoyu.top/bili](https://shoyu.top/bili)）
 
 ### 用法
 
