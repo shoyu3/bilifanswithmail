@@ -2,6 +2,8 @@
 
 其实就是一个十分简单的python程序，一百来行代码，Releases里有已经编译和打包过的文件（网页版地址[https://shoyu.top/bili](https://shoyu.top/bili)）
 
+觉得下载慢的可以前往码云（[点击这里](https://gitee.com/shoyu3/bilifanswithmail)）或蓝奏云（[点击这里，密码0000](https://io3.lanzous.com/b0dwltk8j)）下载
+
 ### 用法
 
 #### 电脑上没有安装Python且操作系统为64位：
