@@ -8,7 +8,7 @@
 
 #### 电脑上没有安装Python：
 
-下载Releases里的```bilifanswithmailv0.3-win-x64.zip```并解压，把解压后的目录里的```biliconf.txt.example```改名为```biliconf.txt```并按需修改其中的参数，然后运行```run.bat```即可
+下载Releases里的```bilifanswithmailv0.3-win.zip```并解压，把解压后的目录里的```biliconf.txt.example```改名为```biliconf.txt```并按需修改其中的参数，然后运行```run.bat```即可
 
 参数参考如下（不要直接从这里复制！）：
 ```
