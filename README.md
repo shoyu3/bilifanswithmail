@@ -36,7 +36,9 @@
 
 0.3版本新增了获取并对比粉丝列表的功能，由于B站本身限制，未登录用户只能查看粉丝列表的前五页（前100位），如想要监测的UID粉丝数未达到该标准则可忽略此段落内容，如已经达到或超过，请务必查看此段落内容！
 
-获取哔哩哔哩的cookie的教程：https://github.com/shoyu3/bilifanswithmail/blob/main/AboutCookies.md 或 https://shoyu.top/archives/16/
+获取哔哩哔哩的cookie的方式：
+
+下载Release里最新的已编译的zip，解压并运行getcookie.exe（code里也有未编译的getcookie.py），按照程序提示的操作执行，最后会自动生成cookie.txt，无需再前往浏览器控制台获取
 
 ### 更新日志
 
