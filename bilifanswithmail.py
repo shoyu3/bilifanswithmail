@@ -18,7 +18,7 @@ except:
     exit()
 cookie=cook.read()
 
-version='v0.3'
+version='v0.4'
 #----------#
 uid=input('请输入UID：')
 if uid == "":
